@@ -40,5 +40,7 @@ public class Account {
 
         Account account3 = new Account("Maria", 2999);
         account2.displayInfo();
+
+        account3.displayInfo();
     }
 }
