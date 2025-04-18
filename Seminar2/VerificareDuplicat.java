@@ -9,9 +9,8 @@ public class VerificareDuplicat {
         }
         return false;
     }
-
     public static void main(String[] args) {
-        int[] exemplu = {4, 7, 2, 9, 4};
-        System.out.println("Are dubluri? " + areDubluri(exemplu));
+        int[] exemplu = {3, 1, 4, 2, 5, 3};
+        System.out.println("Există duplicate? " + areDubluri(exemplu));
     }
 }
