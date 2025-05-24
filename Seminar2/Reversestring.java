@@ -1,5 +1,3 @@
-package Seminar2;
-
 public class Reversestring {
     public static void reverse(char[] s) {
         int left = 0;

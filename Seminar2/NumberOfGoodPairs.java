@@ -1,5 +1,3 @@
-package Seminar2;
-
 public class NumberOfGoodPairs {
     public static int numarPerechiIdentice(int[] numere) {
         int perechiBune = 0;
